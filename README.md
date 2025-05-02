@@ -82,5 +82,4 @@ Sou apaixonado por tecnologia, inovação e performance, e trago essa visão par
 
 ### 💬 Vamos construir algo incrível?
 
-Entre em contato comigo no WhatsApp!  
-[Clique aqui para conversar 👇](https://wa.me/5591998085725?text=Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto)
+Entre em contato comigo no WhatsApp! [Clique aqui para conversar 👇](https://wa.me/5591998085725?text=Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto)
