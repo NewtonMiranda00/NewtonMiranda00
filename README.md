@@ -84,7 +84,7 @@ Sou apaixonado por tecnologia, inovação e performance, e trago essa visão par
 
 <p>
   Entre em contato comigo no WhatsApp! 
-  <a href="https://wa.me/5511999999999?text=Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/5591998085725?text=Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto" target="_blank" rel="noopener noreferrer">
     Clique aqui para conversar
   </a> 👇
 </p>
