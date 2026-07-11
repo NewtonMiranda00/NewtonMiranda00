@@ -28,7 +28,7 @@
   <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" title="Express" width="30px" src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp" />
+  <img alt="Express" title="Express" width="30px" src="./assets/express.svg" />
   <img alt="NestJS" title="NestJS" width="30px" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" />
   <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Prisma" title="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
