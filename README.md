@@ -50,6 +50,16 @@ Sou apaixonado por tecnologia, inovação e performance, e trago essa visão par
 
 ---
 
+### 🚀 Projeto em destaque
+
+#### [My Money Hub](https://mymoneyhub.com.br)
+
+SaaS de controle financeiro pessoal criado para centralizar contas, transações, cartões, investimentos, metas, orçamentos e relatórios. O produto também oferece automações com inteligência artificial e integração com Open Finance para simplificar a organização financeira.
+
+🔗 **[Conheça o My Money Hub](https://mymoneyhub.com.br)**
+
+---
+
 ### 🎯 Experiência e Atuação
 
 - Desenvolvimento de plataformas SaaS completas (Frontend + Backend)
