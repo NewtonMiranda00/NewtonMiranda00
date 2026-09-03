@@ -62,6 +62,16 @@ SaaS de controle financeiro pessoal criado para centralizar contas, transações
 
 ---
 
+#### Discord Sync — automação de acesso para comunidades
+
+Plataforma white label para conectar pagamentos, e-mails transacionais e cargos do Discord em uma operação única. A solução centraliza webhooks, filas de sincronização, auditoria de acesso, reenvio de links e diagnóstico por assinatura para equipes que gerenciam comunidades privadas.
+
+> Preview demonstrativo com dados fictícios, sem exposição de informações sensíveis.
+
+![Discord Sync — dashboard operacional com dados demonstrativos](./assets/discord-sync-preview.png)
+
+---
+
 ### 🎯 Experiência e Atuação
 
 - Desenvolvimento de plataformas SaaS completas (Frontend + Backend)
