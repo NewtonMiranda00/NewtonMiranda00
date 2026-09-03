@@ -68,7 +68,7 @@ Plataforma white label para conectar pagamentos, e-mails transacionais e cargos 
 
 > Preview demonstrativo com dados fictícios, sem exposição de informações sensíveis.
 
-![Discord Sync — dashboard operacional com dados demonstrativos](./assets/discord-sync-preview.png)
+![Discord Sync — dashboard operacional em modo teste](./assets/discord-sync-dashboard-mode-test.png)
 
 ---
 
