@@ -70,7 +70,7 @@ Plataforma white label para conectar pagamentos, e-mails transacionais e cargos 
 
 ---
 
-#### Em breve mais projetos
+<h4 align="center">Em breve mais projetos</h4>
 
 ---
 
