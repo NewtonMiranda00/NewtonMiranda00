@@ -70,6 +70,10 @@ Plataforma white label para conectar pagamentos, e-mails transacionais e cargos 
 
 ---
 
+#### Em breve mais projetos
+
+---
+
 ### 🎯 Experiência e Atuação
 
 - Desenvolvimento de plataformas SaaS completas (Frontend + Backend)
